@@ -34,6 +34,7 @@
 
 ![movies_query](https://user-images.githubusercontent.com/90656004/144764493-fc3c77af-7a40-4007-a15b-85950e099730.PNG)
 
-![ratings_query](https://user-images.githubusercontent.com/90656004/144764412-2b78efb9-18ec-46d7-8a0e-e362ed22f835.png)
+![ratings_query](https://user-images.githubusercontent.com/90656004/144764576-3f63e3fb-14ca-4744-bcf3-7c67fbaadc70.png)
+
 
 
