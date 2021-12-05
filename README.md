@@ -32,4 +32,7 @@
 
 ### Deliverable 4
 
-![movies_query](https://user-images.githubusercontent.com/90656004/144764060-96eb536f-e7f8-41b7-8be6-2404bb2f481b.PNG)
+![movies_query](https://user-images.githubusercontent.com/90656004/144764407-9ca35c88-03a0-45f2-8fc4-7afa1bd934eb.PNG)
+![ratings_query](https://user-images.githubusercontent.com/90656004/144764412-2b78efb9-18ec-46d7-8a0e-e362ed22f835.png)
+
+
